@@ -1,16 +1,11 @@
-# weather_app
+# Skycast - Your Ultimate Weather Companion
 
-A new Flutter project.
+Skycast is a beautifully designed Flutter app that brings the power of weather forecasting right to your fingertips. With a user-friendly interface and seamless navigation, Skycast provides you with accurate weather information at a glance, helping you stay prepared for any weather condition.
 
-## Getting Started
+# Features:
 
-This project is a starting point for a Flutter application.
+Elegant Splash Screen: A visually appealing splash screen welcomes users as they launch the app, setting the tone for a smooth and immersive weather experience.
 
-A few resources to get you started if this is your first Flutter project:
+Home Screen - Weather Overview: Get an instant overview of the current weather conditions in your location. Skycast displays real-time data such as temperature, humidity and wind speed so you can plan your day accordingly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Detailed Weather Information: Tapping on any location on the Home Screen opens up the Detail Screen, presenting a comprehensive forecast. Skycast offers a 6-day weather forecast with hourly breakdowns, ensuring you are well-informed about the upcoming weather trends.
